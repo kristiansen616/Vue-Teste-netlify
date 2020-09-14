@@ -42,18 +42,12 @@ import qboot_Booti18n from 'boot/i18n'
 
 
 
-Vue.config.devtools = true
-Vue.config.productionTip = false
-
-
-
-console.info('[Quasar] Running SPA.')
 
 
 
 
 
-const publicPath = `/`
+const publicPath = ``
 
 
 async function start () {
