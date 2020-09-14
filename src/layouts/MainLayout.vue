@@ -75,7 +75,7 @@ const linksData = [
     title: 'Clientes',
     caption: 'Informações sobre o cliente',
     icon: 'face',
-    link: '/posts'
+    link: '/posts/clientes.vue'
   }
 ]
 
