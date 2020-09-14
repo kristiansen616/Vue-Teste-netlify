@@ -31,12 +31,12 @@
           class="text-grey-8"
         >
          <div class="column flex-center q-ma-xs">
-        <!-- <q-chip>
+         <q-chip>
         <q-avatar size="50px">
           <img src="https://cdn.quasar.dev/img/boy-avatar.png">
         </q-avatar>
         John
-      </q-chip>-->
+      </q-chip>
       <br>
          <div class="full-width rounded-borders q-list q-list--bordered q-list--separator">
             <div class="q-item q-item-type row no-wrap">
